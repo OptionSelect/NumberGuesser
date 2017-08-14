@@ -1,0 +1,8 @@
+/Users/brandyn/dotnet/NumberGuesser/bin/Debug/netcoreapp1.1/NumberGuesser.deps.json
+/Users/brandyn/dotnet/NumberGuesser/bin/Debug/netcoreapp1.1/NumberGuesser.runtimeconfig.json
+/Users/brandyn/dotnet/NumberGuesser/bin/Debug/netcoreapp1.1/NumberGuesser.runtimeconfig.dev.json
+/Users/brandyn/dotnet/NumberGuesser/bin/Debug/netcoreapp1.1/NumberGuesser.dll
+/Users/brandyn/dotnet/NumberGuesser/bin/Debug/netcoreapp1.1/NumberGuesser.pdb
+/Users/brandyn/dotnet/NumberGuesser/obj/Debug/netcoreapp1.1/NumberGuesser.AssemblyInfo.cs
+/Users/brandyn/dotnet/NumberGuesser/obj/Debug/netcoreapp1.1/NumberGuesser.dll
+/Users/brandyn/dotnet/NumberGuesser/obj/Debug/netcoreapp1.1/NumberGuesser.pdb
